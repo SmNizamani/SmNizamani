@@ -16,7 +16,7 @@ I'm a dedicated software tester with a keen eye for detail and a strong backgrou
 - **CI/CD**: Jenkins, GitHub Actions.
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" alt="playwright" width="40" height="40" style="margin-right: 20px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Cucumber_logo.svg/1280px-Cucumber_logo.svg.png" alt="cucumber" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" alt="cucumber" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40" style="margin-right: 20px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="margin-right: 20px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-right: 20px;"/>
